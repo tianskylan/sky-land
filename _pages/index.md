@@ -7,9 +7,9 @@ permalink: /
 
 # Welcome!✨
 
-Hey there! I'm Sky Lan. This tiny piece of land is my "digital garden".
+Hey there! I'm Sky Lan, welcome to my tiny piece of land.
 
-I will be adding posts and notes here, to learn with my garage door open.
+I will be adding posts and notes here to learn with my garage door open.
 
 My writing will be in English or 中文，whichever felt natural at the moment.
 
