@@ -9,10 +9,13 @@ permalink: /
 
 
 Just getting started to build out my digital land.
-  
+
+# Posts
+
 My first post is, of course, on the importance of note taking. It's written in Chinese: [[在笔记中学会思考]].
 
-Added a new note: [[Morning options instead of morning routine]].
+# Notes
+I prefer [[Morning options instead of morning routine]].
 
 
 
