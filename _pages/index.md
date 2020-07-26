@@ -5,18 +5,20 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome!✨
 
+Hey there! I'm Sky Lan. This tiny piece of land is my "digital garden".
 
-Just getting started to build out my digital land.
+I will be adding posts and notes here, to learn with my garage door open.
 
-# Posts
+My writing will be in English or 中文，whichever felt natural at the moment.
 
-My first post is, of course, on the importance of note taking. It's written in Chinese: [[在笔记中学会思考]].
+# Posts🧐
 
-# Notes
+My first post is, of course, on the importance of note taking: [[在笔记中学会思考]].
+
+# Notes✏️
 I prefer [[Morning options instead of morning routine]].
-
 
 
 <style>
