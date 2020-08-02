@@ -1,0 +1,122 @@
+---
+title: "On Writing Well"
+---
+
+## Intro
+- Computers made good writers better, and bad writers worse. It allows the former to easily rewrite sentences, and the latter to easily put more words onto the screen.
+
+## Principles for writing
+- Transaction
+    - Writing is a craft, not an art. Can't run away from it just because you lack inspiration that day.
+    - There is NO one true way to write because it's such a personal task.
+    - The final product of writing, is "**you**" on paper, not the subject. It has to trigger empathy. 
+        - Related to "Abstraction is also useful in fiction, in order to create connections to the story" from [[How to Take Smart Notes]]
+    - The most important qualities of writing: **humanity and warmth**.
+- Simplicity
+    - We have a tendency to clutter our words. We use more complex expressions to sound important.
+        - *"But the secret of writing is to strip of every sentence to its cleanest components".*
+    - Clear thinking leads to clear writing. Always ask: what am I trying to say?
+    - Zinsser shows a photocopy of his manuscript. It's a great example of how he edits to make things simpler. The most changes are deletions. 
+- Clutter
+    - Say "now" instead of "at this point in time". Do not clutter your sentences with unnecessary words. Use the short ones.
+    - *"Political speech and writing are largely the defense of the indefensible...Thus political language has to consist of euphemism, question begging and sheer cloudy vagueness." - George Orwell*
+    - "Verbal camouflage" is an interesting term for clutter in writing.
+    - Do not add the filler phrases, which adds no value. E.g.: "a bit", "sort of", "in a sense". It weakens your writing.
+        - Does it make the writing more polite though? #question
+    - Student essays ask for "at least 800 words". It's a bad requirement. You get what you measure.
+- Style
+    - Focus on function of your writing first, and then style.
+    - Readers want the writer to be genuine. Be yourself.
+    - Two principles for good style:
+        - Relax
+            - To relax, don't think about the outcome too much, because it brings on too much responsibility.
+        - Confidence
+            - Writing is an act of ego. Make use of the energy and be confident to reveal your identity.
+    - Write in first person to be yourself. Leaders who avoid first person speech to protect themselves are not trustworthy.
+- Audience
+    - Write for yourself.
+	    - Take this attitude, express yourself
+    - Think of the reader. 
+        - Apply simplicity to your craft.
+    - *"Perhaps the style won't solidify for years as your style, your voice. Just as it takes time to find yourself as a person, it takes time to find yourself as a stylist, and even then your style will change as you grow older."*
+- Words
+    - *"The thesaurus is to the writer what a rhyming dictionary is to the songwriter - a reminder of all the choices."*
+    - Readers not only read with eyes, but also **ears**. Make your words sound good.
+- Usage
+    - Zinsser was a member of a panel which decides "what's good usage in the English language". **Issac Asimov was on the panel as well**.
+    - The panel agreed that *The adverb "good" should be "left as the exclusive property of Ernest Hemingway"*.
+    - *"Today's spoken garbage may be tomorrow's written gold".*
+        - Some bad usage mentioned in this book have become standard usage, for better or worse. I'm often an offender without realizing.
+    - There has been effort to guard against bad usage outside of the experts. President Clinton's attorney general asked for law writing to use simple words rather than "legalese". 
+        - Well, we know that didn't go very well.
+    - Separate usage from jargon. Usage is **needed** to express something, jargon is merely a more complicated way of saying something.
+    - Zinsser argues that we should separate good English writing from technical English (e.g. input, feedback are both computer terms).
+        - That appears to be another lost battle, as we integrate ourselves with technology so deep today.
+
+## Methods for writing
+- Unity
+    - Coherence keeps readers sane.
+    - Type of unity to consider:
+        - pronoun
+        - tense
+        - mood
+    - Questions to ask yourself:
+        - Who am I?
+        - Who am I talking to? When? What style & tone?
+        - How much to cover?
+        - What's the ONE point to make?
+    - You are not obligated to cover everything about a topic. Reduce first, bite off one corner of the topic and focus on that.
+    - **A piece of non-fiction writing should leave readers with ONE idea.**
+- Lead & Ending
+    - Lead: let the reader know what's in this for them, quickly
+    - Collect more material than you need. Look for them from unintended places (e.g. by reading boring stuff like roadside commercials). Note-taking tools with backlinks, like Roam Research, become useful for this task.
+    - Don't lead with cliche. Lead with freshness and detail.
+    - "When you are ready to stop, stop". Don't repeat yourself with "In conclusion".
+- Bits & pieces
+    - Use active verbs. Get people doing things. Turn the cold sentences around.
+    - Short words are better than long ones. Lincoln's Second Inaugural Address was 701 words, 505 of which are one-syllable.
+        - Trump and Sanders are good at this too. NerdWriter on Youtube has made videos about both of them.
+    - Don't repeat the verb with a redundant adverb. Or adjectives for noun.
+    - It's okay to begin a sentence with "But". It communicates a strong change in emotion.
+    - Usually, prefer "that" than "which".
+    - Quickest way to fix a problematic sentence is to delete it.
+    - Rewrite to make sure a narrative flow from beginning to end. (Great example on pg. 85, where he rewrote a passage)
+
+## Forms of writing
+- Memoir
+    - Memoir isn't a summary of life, but a window into life. Narrow your focus.
+- Science and Technology
+    - Writing on science does not have to be difficult to understand. The good ones are easy to follow.
+    - Start with some familiar concept, and build up the connection from one sentence to the next.
+- Business
+    - "But just because people work for an institution, they don't have to write like one."
+    - Four articles of faith: clarity, simplicity, brevity, humanity
+    - Zinsser even conducted "de-jargonize" workshops for schools and corporates
+
+## Attitudes of writing
+- Sound of your voice
+    - No matter the subject, write with your own style. Avoid:
+        - Breeziness: Trying too hard to sound casual and local, and end up becoming littering your writing with cheap slangs
+        - Condescension: No one likes to be talked down to
+        - Cliches: Readers want freshness
+    - It's okay to imitate the best writers you know, to learn "good taste".
+- Enjoyment, fear and confidence
+    - Zinsser had a colleague at his newspaper that goes to the mountains to write about "woolly bear" caterpillars, whether they correctly predict how harsh the next winter is by the width of their body. This is pure enjoyment in writing, and people love reading it. The result of the prediction does not matter.
+- The tyranny of the final product
+    - "The paper is due on Friday" kills much of the creativity in writing. We need to do a better job to teach students writing.
+    - Write with character and intention.
+        - Goal: Figure out what you want to do, how you want to do it
+        - Process: Write with humanity and integrity
+        - Product: That leads you to the completed article
+- A writer's decisions
+    - It's not enough to take readers on a trip. YOU need to be the guide.
+    - you are under no obligation to write about the full picture.
+    - Create your "writer's luck" by always getting on the plane to pursue the uncertainty.
+        - What's the modern day equivalent of getting on the plane? We may have more ways to experience and discover stories now.
+- Writing family history
+    - "Memories too often die with their owner, and time too often surprises by us by running out."
+    - Don't worry about interviewing everyone who may have something to say about the events. It's your story, write from your perspective.
+    - Think small. Start with writing about memorable episodes. Then piece them together in the end.
+        - Reference [[Zettelkasten]]
+- Write as well as you can
+    - *Joe DiMaggio: "I always thought that there was at least one person in the stands who had never seen me play, and I didn't want to let them down."*

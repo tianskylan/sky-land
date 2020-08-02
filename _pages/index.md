@@ -9,11 +9,11 @@ permalink: /
 
 I'm Sky.
 
-I post my articles and notes here to learn with my garage door open.
+I put my articles and notes here to learn with my garage door open.
 
 My writing will be in English or 中文, whatever felt natural at the moment.
 
-# Articles🧐
+# My Writings🧐
 
 {% for post in site.posts %}
 <article>
@@ -23,7 +23,17 @@ My writing will be in English or 中文, whatever felt natural at the moment.
 </article>
 {% endfor %}
 
-# Notes✏️
+# Books Notes📚
+
+{% for book in site.books %}
+<article>
+  <a href="{{ book.url }}">
+    {{ book.title }}
+  </a>
+</article>
+{% endfor %}
+
+# Idea Notes✏️
 
 {% for note in site.notes %}
 <article>
