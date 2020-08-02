@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<article>
+  <div>
+    <h1>{{ page.title }}</h1>
+        <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{% if page.type != 'pages' %}
+      {{ page.date | date: "%B %-d, %Y" }}
+      {% endif %}
+    </time>
+  </div>
+
+  <div id="notes-entry-container">
+    <content>
+      {{ content }}
+    </content>
+  </div>
+</article>

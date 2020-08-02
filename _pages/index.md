@@ -15,10 +15,24 @@ My writing will be in English or 中文, whichever felt natural at the moment.
 
 # Posts🧐
 
-My first post is, of course, on the importance of note taking: [[在笔记中学会思考]].
+{% for post in site.posts %}
+  <article>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+  </article>
+{% endfor %}
 
 # Notes✏️
-I prefer [[Morning options instead of morning routine]].
+{% for note in site.notes %}
+  <article>
+    <h3>
+      <a href="{{ note.url }}">
+        {{ note.title }}
+      </a>
+    </h3>
+  </article>
+{% endfor %}
 
 
 <style>
