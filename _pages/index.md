@@ -23,7 +23,7 @@ My writing will be in English or 中文, whatever felt natural at the moment.
 </article>
 {% endfor %}
 
-# Books Notes📚
+# Book Notes📚
 
 {% for book in site.books %}
 <article>
