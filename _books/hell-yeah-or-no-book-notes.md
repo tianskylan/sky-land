@@ -1,0 +1,29 @@
+---
+title: "Hell Yeah or No"
+---
+- Art is useless, otherwise it'd become a tool.
+- Your first reaction is often outdated
+- "Quit" comes from old French, meaning "to free" or "to release"
+- "Solitary socialite": physically alone but extremely social. 
+    - Important callout here is that there needs to be actual 1:1 communication, i.e. email, phone, etc.. Surfing a feed doesn't count.
+- Emphasizes the value of "disconnect" once more. Catching up with what everyone else is reading won't give you an edge.
+- Sometimes people give underdog opinions (非主流观点) in their context, which doesn't equate to non-mainstream for you. 
+    - Taking advice should be like echolocation - you ask others to bounce off ideas, then locate the truth for yourself. #小马过河
+    - cf. this idea of echo chamber. These two ideas can be illustrated to see the difference. We want echolocation, not echo chamber.
+- Ego is really the enemy. You are too worried about looking good or making something great, that you won't do anything.
+- "Seeking patterns in randomness is called apophenia."
+- Three things to consider when looking for something worth doing:
+    - Happy Does it make you content?
+    - Smart: Does it make you grow in a desirable direction in the long run?
+    - Useful: Is it useful to others?
+- "do what you love" and "make good living"
+    - We need stability AND adventure at the same time; you'll want to sway between the two
+    - Each half of your life becomes a remedy for the other
+    - Do good work to make a stable living. Do good art just for the sake of art, and you don't need to compromise to the marketplace.
+    - Don't expect your job to fulfill all your emotional needs. Don't taint something you love with the need to make money from it.
+- Many of the parenting things you do for your child, is actually equally beneficial for you. Longer attention span, imagination, broader input, curiosity.
+- Alvin Toffler: "The illiterates of the 21st century will not be those who cannot read and write but those who cannot learn, unlearn, and relearn." #Quotes
+- Books are like a mirror. It's about you, not the mirror itself. If a book makes you learn more and think more about yourself, then it's a good book. The author's belief doesn't matter.
+- Move often to a strange environment. It keeps your mind in an open and learning mode. The mundane daily tasks like grocery shopping becomes learning opportunities.
+- A good goal makes you want to take actions right away. If you think you want something, but keep putting it off, then the goal is not good enough.
+- Input won't become inspiration alone. They need to be connected with your work.
