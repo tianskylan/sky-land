@@ -9,9 +9,7 @@ permalink: /
 
 I'm Sky.
 
-I put my articles and notes here to learn with my garage door open.
-
-My writing will be in English or 中文, whatever felt natural at the moment.
+I put my articles and notes here to learn in the open.
 
 # My Writings🧐
 
