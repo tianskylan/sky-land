@@ -11,4 +11,4 @@ layout: post
 
 我们的生活节奏越来越快，慢下来的时光逐渐变成奢侈品。但这种奢侈其实也可以免费获得——你只需要坐在窗前，什么也不做；看着窗外，什么也不想。
 
-延伸阅读：[[Slow Dance]]
+A poem called [[Slow Dance]] talks about this as well.
