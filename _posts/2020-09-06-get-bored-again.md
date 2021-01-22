@@ -1,5 +1,5 @@
 ---
-title:  "找回无聊"
+title: 找回无聊"
 layout: post
 ---
 

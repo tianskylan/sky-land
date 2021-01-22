@@ -1,5 +1,5 @@
 ---
-title:  "在笔记中学会思考"
+title: "在笔记中学会思考"
 layout: post
 ---
 
